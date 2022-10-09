@@ -1,1 +1,1 @@
-new after ssh ubuntu
+new after ssh git bash https
