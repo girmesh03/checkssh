@@ -1,1 +1,1 @@
-# checkssh
+FROM GIT BASH
