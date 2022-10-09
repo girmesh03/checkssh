@@ -1,1 +1,1 @@
-new after ssh git bash https
+ubuntu ssh anywhere
