@@ -1,1 +1,1 @@
-FROM GIT BASH
+new after ssh ubuntu
